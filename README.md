@@ -1,6 +1,6 @@
 ## Git 처음 등록 순서
 1️⃣ 원하는 곳에서 `git clone https://github.com/Blche/datathon_09.git`
-<br>(자동으로 폴더가 datatone_09라는 이름으로 생성됨)
+<br>(자동으로 폴더가 datathon_09라는 이름으로 생성됨)
 
 2️⃣ members 안에 개인 이름으로 된 폴더 '문세희' 처럼 생성 후, 그 안에 파일 아무거나 하나 추가
 
