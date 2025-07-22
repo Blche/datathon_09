@@ -1,21 +1,16 @@
 ## Git 처음 등록 순서
-1️⃣ 원하는 곳에서 `git clone https://github.com/Blche/datathon_09.git`
-<br>(자동으로 폴더가 datathon_09라는 이름으로 생성됨)
+1. 원하는 곳에서 우클릭 - git Bash 실행
+2. `git clone https://github.com/Blche/datathon_09.git`
+  <br>(자동으로 폴더가 datathon_09라는 이름으로 생성됨)
+3. `cd datathon_09`
 
-2️⃣ members 안에 개인 이름으로 된 폴더 '문세희' 처럼 생성 후, 그 안에 파일 아무거나 하나 추가
+4.  "members" 폴더 안에 개인 이름으로 된 폴더 '문세희' 처럼 생성 후, 그 안에 파일 아무거나 하나 추가
 
-3️⃣ `git add -A`
+5. `git add -A`
 
-4️⃣ `git commit -m "000 작업 폴더 생성"`
+6. `git commit -m "000 작업 폴더 생성"`
 
-5️⃣ `git push`
-
-### 원하는 폴더명에 연결하고 싶은 경우
-1. 폴더 원하는 이름으로 생성
-2. `Git init`
-3. `git remote add origin https://github.com/Blche/datathon_09.git`
-4. git pull origin master
-5. 2️⃣번과 동일
+7. `git push`
 
 <br>
 
