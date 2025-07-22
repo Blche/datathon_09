@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.csv
+*.xsl
+*.xslx
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+data/
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter runtime
+~$*
