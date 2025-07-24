@@ -33,6 +33,7 @@ git push
 pull이나 push에서 오류가 난다면 git push origin master의 형태로 입력
 
 <br>
+
 ---
 
 - 데이터 출처 : https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop/data
